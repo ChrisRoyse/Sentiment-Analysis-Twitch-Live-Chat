@@ -1,7 +1,7 @@
 
 # Twitch Data Sentiment Analysis
 
-A Python-based tool that performs sentiment analysis on Twitch chat data. This script processes a dataset containing Twitch messages, analyzes the sentiment of each message using multiple sentiment analysis libraries, and aggregates the results on a daily and weekly basis. The final sentiment scores are saved into separate CSV files for further analysis.
+A Python-based tool that performs sentiment analysis on Twitch chat data. This script processes a dataset containing Twitch messages, analyzes the sentiment of each message using multiple sentiment analysis libraries, and aggregates the results on a daily and weekly basis. The final sentiment scores are saved into separate CSV files for further analysis. The results of my test of 723,000,000 messages is attached as well to view.
 
 ## Table of Contents
 
